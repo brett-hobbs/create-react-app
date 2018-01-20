@@ -1,12 +1,7 @@
-# Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
+# Create Houzz Carousel React App
 
-Create React apps with no build configuration.
-
-* [Creating an App](#creating-an-app) – How to create a new app.
-* [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
-
-Create React App works on macOS, Windows, and Linux.<br>
-If something doesn’t work, please [file an issue](https://github.com/facebookincubator/create-react-app/issues/new).
+This should work on macOS, Windows, and Linux.<br>
+This is pretty new don't hestitate to let us know. If something doesn’t work or it's confusing in any way, email brett@houzz.com.
 
 ## Quick Overview
 
